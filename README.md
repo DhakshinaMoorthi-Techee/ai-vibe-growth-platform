@@ -65,7 +65,7 @@ Hosted link :- `https://ai-vibe-growth-platform.netlify.app/`
 
 ##  Installation & Setup
 
-### 1. Clone the Repository
+### Clone the Repository
 bash
 `git clone https://github.com/DhakshinaMoorthi-Techee/ai-vibe-growth-platform.git
 cd ai-vibe-growth-platform`
