@@ -1,19 +1,19 @@
-# 🧠 AI Vibe Growth Platform
+#  AI Vibe Growth Platform
 
 A lightweight **Marketing Intelligence Dashboard** and **Prompt Playground** built using **React + Vite + TypeScript**.  
 This project demonstrates modern UI architecture, clean state management, responsive design, and prompt-driven analytics simulation.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 📊 Marketing Dashboard
+###  Marketing Dashboard
 - Interactive table showing ad campaign metrics
 - Trend chart (Chart.js) for CTR & Conversions
 - Filter bar: `All` / `Active` / `Paused`
 - Responsive, mobile-first layout
 
-### ✨ Prompt Playground
+###  Prompt Playground
 - Keyword-driven filtering via typed prompts
 - Simple intent parser for commands like:
   - “Show top campaigns by CTR”
@@ -23,7 +23,7 @@ This project demonstrates modern UI architecture, clean state management, respon
 
 ---
 
-## 🧪 Sample Prompts
+##  Sample Prompts
 
 Try the following inside the **Prompt Playground**:
 
@@ -42,21 +42,21 @@ Try the following inside the **Prompt Playground**:
 
 ---
 
-## 🛠️ Technical Highlights
+##  Technical Highlights
 
-- ⚡ **Vite** — ultra-fast builds & HMR  
-- ⚛️ **React + TypeScript** — type-safe UI  
-- 💨 **Tailwind CSS** — utility-first styling  
-- 🧭 **React Router v6** — clean routing  
-- 🪴 **Zustand** — lightweight state management  
-- 📈 **Chart.js + react-chartjs-2** — performant charts  
-- 🦴 Lazy loading & skeleton loaders to optimize Core Web Vitals
+-  **Vite** — ultra-fast builds & HMR  
+-  **React + TypeScript** — type-safe UI  
+-  **Tailwind CSS** — utility-first styling  
+-  **React Router v6** — clean routing  
+-  **Zustand** — lightweight state management  
+-  **Chart.js + react-chartjs-2** — performant charts  
+-  Lazy loading & skeleton loaders to optimize Core Web Vitals
 
 ---
 
-## 🧰 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/ai-vibe-growth-platform.git
+git clone https://github.com/DhakshinaMoorthi-Techee/ai-vibe-growth-platform.git
 cd ai-vibe-growth-platform
